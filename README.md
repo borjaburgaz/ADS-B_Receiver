@@ -1,4 +1,4 @@
-# adsb_decoder
+# ADS-B Receiver
 
 ADS-B Receiver: Treats the signal, decodes the messages and extracts all information and subsequently plots it and stores in a MySQL database. The real-time mapping application allows the visualization of the received positions of the aircraft.
 
